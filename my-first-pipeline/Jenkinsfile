@@ -5,7 +5,7 @@ pipeline {
   stages {
     stage('Test') {
       steps {
-        sh 'node --version' #chnages from Omkar
+        sh 'node --version'  #changes frpom Akash
       }
     }
   }
